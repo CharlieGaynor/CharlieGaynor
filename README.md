@@ -4,6 +4,7 @@
 - Currently I'm working on learning & applying NLP, with projects to come. Previously I've investigated Reinforcement learning, see below!
 - I’m always looking to collaborate on ML projects (could be an exciting kaggle competiton or anything else)
 - Reach me on linkedin.com/in/CharlieGaynor, or CharlieJackGaynor@gmail.com
+- See Trumps for the best repository!
 
 <!---
 CharlieGaynor/CharlieGaynor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
